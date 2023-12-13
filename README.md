@@ -1,2 +1,2 @@
 # Simon-Game
-Simple Simon Game Using Java
+Simon Game Using JavaFx
